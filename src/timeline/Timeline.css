@@ -1,0 +1,15 @@
+.timeline{
+    display: flex;
+    flex-direction: row;
+    /* height: 100vh; */
+}
+
+
+.timeline_left{
+    flex: 0.7;
+}
+
+.timeline_right{
+    flex:0.3;
+  
+}
